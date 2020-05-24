@@ -1,2 +1,1 @@
-# SUPPLY-MISSION-1
-Created using Visual Studio Code.......
+# SupplyMission
